@@ -1,0 +1,4 @@
+*.png
+qa*.mjs
+publish.py
+*.tar.gz

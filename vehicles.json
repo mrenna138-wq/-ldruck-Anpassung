@@ -1,0 +1,614 @@
+[
+  {
+    "brand": "Audi",
+    "model": "A3 8V",
+    "period": null,
+    "engine": "2.0 TDI",
+    "power": 150,
+    "code": null,
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Audi",
+    "model": "A3 8V",
+    "period": null,
+    "engine": "40 TDI",
+    "power": 184,
+    "code": null,
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Audi",
+    "model": "A4 8W",
+    "period": null,
+    "engine": "2.9 TFSI V6 (RS4)",
+    "power": 450,
+    "code": null,
+    "ecu": "Bosch MG1CS002"
+  },
+  {
+    "brand": "Audi",
+    "model": "A4 B8",
+    "period": null,
+    "engine": "2.0 TDI",
+    "power": 150,
+    "code": null,
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Audi",
+    "model": "A4 B8",
+    "period": null,
+    "engine": "3.0 TDI",
+    "power": 245,
+    "code": null,
+    "ecu": "Bosch MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "A4 B9",
+    "period": null,
+    "engine": "3.0 TDI",
+    "power": 218,
+    "code": null,
+    "ecu": "Bosch EDC17CP54"
+  },
+  {
+    "brand": "Audi",
+    "model": "A4 B9",
+    "period": null,
+    "engine": "3.0 TDI",
+    "power": 218,
+    "code": null,
+    "ecu": "Bosch MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "A4 B9",
+    "period": null,
+    "engine": "3.0 TDI",
+    "power": 272,
+    "code": null,
+    "ecu": "Bosch MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "A4 B9",
+    "period": null,
+    "engine": "3.0 TDI (S4)",
+    "power": 347,
+    "code": null,
+    "ecu": "Bosch MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "A4 B9",
+    "period": null,
+    "engine": "3.0 TDI (S4)",
+    "power": 347,
+    "code": null,
+    "ecu": "Bosch MD1CS014"
+  },
+  {
+    "brand": "Audi",
+    "model": "A4 B9",
+    "period": null,
+    "engine": "3.0 TFSI V6 (S4)",
+    "power": 354,
+    "code": null,
+    "ecu": "Bosch MG1CS002"
+  },
+  {
+    "brand": "Audi",
+    "model": "A4 B9",
+    "period": null,
+    "engine": "30 TDI",
+    "power": 136,
+    "code": null,
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Audi",
+    "model": "A4 B9",
+    "period": null,
+    "engine": "40 TDI",
+    "power": 190,
+    "code": null,
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Audi",
+    "model": "A4 B9",
+    "period": null,
+    "engine": "40 TDI",
+    "power": 204,
+    "code": null,
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Audi",
+    "model": "A4 B9",
+    "period": null,
+    "engine": "45 TDI",
+    "power": 231,
+    "code": null,
+    "ecu": "Bosch MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "A4 B9",
+    "period": null,
+    "engine": "45 TDI",
+    "power": 231,
+    "code": null,
+    "ecu": "Bosch MD1CS014"
+  },
+  {
+    "brand": "Audi",
+    "model": "A4 B9",
+    "period": null,
+    "engine": "45 TDI",
+    "power": 245,
+    "code": null,
+    "ecu": "Bosch MD1CS014"
+  },
+  {
+    "brand": "Audi",
+    "model": "A4 B9",
+    "period": null,
+    "engine": "50 TDI",
+    "power": 286,
+    "code": null,
+    "ecu": "Bosch MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "A4 B9",
+    "period": null,
+    "engine": "50 TDI",
+    "power": 286,
+    "code": null,
+    "ecu": "Bosch MD1CS014"
+  },
+  {
+    "brand": "Audi",
+    "model": "A5 8F",
+    "period": null,
+    "engine": "2.0 TDI",
+    "power": 150,
+    "code": null,
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Audi",
+    "model": "A6 C7",
+    "period": "2014–2018",
+    "engine": "3.0 TDI",
+    "power": 190,
+    "code": "CVKB",
+    "ecu": "EDC17CP54"
+  },
+  {
+    "brand": "Audi",
+    "model": "A6 C7",
+    "period": "2014–2018",
+    "engine": "3.0 TDI",
+    "power": 218,
+    "code": "CVMD",
+    "ecu": "EDC17CP54"
+  },
+  {
+    "brand": "Audi",
+    "model": "A6 C7",
+    "period": "2014–2018",
+    "engine": "3.0 TDI",
+    "power": 272,
+    "code": "CVMD",
+    "ecu": "EDC17CP54"
+  },
+  {
+    "brand": "Audi",
+    "model": "A6 C7",
+    "period": "2014–2018",
+    "engine": "3.0 BiTDI",
+    "power": 313,
+    "code": "CGQB",
+    "ecu": "EDC17CP44"
+  },
+  {
+    "brand": "Audi",
+    "model": "A6 C7",
+    "period": "2014–2018",
+    "engine": "3.0 BiTDI",
+    "power": 320,
+    "code": "CVUA",
+    "ecu": "EDC17CP44"
+  },
+  {
+    "brand": "Audi",
+    "model": "A6 C8",
+    "period": "2018–heute",
+    "engine": "40 TDI",
+    "power": 204,
+    "code": "DLZA",
+    "ecu": "MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "A6 C8",
+    "period": "2018–heute",
+    "engine": "45 TDI",
+    "power": 231,
+    "code": "DHXA",
+    "ecu": "MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "A6 C8",
+    "period": "2018–heute",
+    "engine": "50 TDI",
+    "power": 286,
+    "code": "DHXA",
+    "ecu": "MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "A7 C7",
+    "period": "2014–2018",
+    "engine": "3.0 TDI",
+    "power": 218,
+    "code": "CVMD",
+    "ecu": "EDC17CP54"
+  },
+  {
+    "brand": "Audi",
+    "model": "A7 C7",
+    "period": "2014–2018",
+    "engine": "3.0 TDI",
+    "power": 272,
+    "code": "CVMD",
+    "ecu": "EDC17CP54"
+  },
+  {
+    "brand": "Audi",
+    "model": "A7 C7",
+    "period": "2014–2018",
+    "engine": "3.0 BiTDI",
+    "power": 313,
+    "code": "CGQB",
+    "ecu": "EDC17CP44"
+  },
+  {
+    "brand": "Audi",
+    "model": "A7 C7",
+    "period": "2014–2018",
+    "engine": "3.0 BiTDI",
+    "power": 320,
+    "code": "CVUA",
+    "ecu": "EDC17CP44"
+  },
+  {
+    "brand": "Audi",
+    "model": "A7 C8",
+    "period": "2018–heute",
+    "engine": "40 TDI",
+    "power": 204,
+    "code": "DLZA",
+    "ecu": "MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "A7 C8",
+    "period": "2018–heute",
+    "engine": "45 TDI",
+    "power": 231,
+    "code": "DHXA",
+    "ecu": "MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "A7 C8",
+    "period": "2018–heute",
+    "engine": "50 TDI",
+    "power": 286,
+    "code": "DHXA",
+    "ecu": "MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "A7 C8",
+    "period": "2018–heute",
+    "engine": "S7 3.0 BiTDI",
+    "power": 349,
+    "code": "DDVA",
+    "ecu": "MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "S6 C8",
+    "period": "2019–heute",
+    "engine": "3.0 BiTDI",
+    "power": 349,
+    "code": "DDVA",
+    "ecu": "MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "S4 B9",
+    "period": "2019–heute",
+    "engine": "3.0 BiTDI",
+    "power": 347,
+    "code": "DDVB",
+    "ecu": "MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "SQ5 FY",
+    "period": "2017–heute",
+    "engine": "3.0 BiTDI",
+    "power": 347,
+    "code": "DDVC",
+    "ecu": "MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "Q7 (2015–2018)",
+    "period": "2015–2018",
+    "engine": "3.0 TDI",
+    "power": 218,
+    "code": "CVMD",
+    "ecu": "EDC17CP54"
+  },
+  {
+    "brand": "Audi",
+    "model": "Q7 (2015–2018)",
+    "period": "2015–2018",
+    "engine": "3.0 TDI",
+    "power": 272,
+    "code": "CVMD",
+    "ecu": "EDC17CP54"
+  },
+  {
+    "brand": "Audi",
+    "model": "Q7 (2015–2018)",
+    "period": "2015–2018",
+    "engine": "3.0 BiTDI",
+    "power": 326,
+    "code": "CVUB",
+    "ecu": "EDC17CP44"
+  },
+  {
+    "brand": "Audi",
+    "model": "Q7 (2018–heute)",
+    "period": "2018–heute",
+    "engine": "45 TDI",
+    "power": 231,
+    "code": "DHXA",
+    "ecu": "MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "Q7 (2018–heute)",
+    "period": "2018–heute",
+    "engine": "50 TDI",
+    "power": 286,
+    "code": "DHXA",
+    "ecu": "MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "SQ7",
+    "period": "2018–heute",
+    "engine": "4.0 BiTDI",
+    "power": 435,
+    "code": "DETA",
+    "ecu": "MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "Q8",
+    "period": "2018–heute",
+    "engine": "3.0 TDI",
+    "power": 286,
+    "code": "DHXA",
+    "ecu": "MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "Q8",
+    "period": "2018–heute",
+    "engine": "45 TDI",
+    "power": 231,
+    "code": "DEUA",
+    "ecu": "MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "SQ8",
+    "period": "2018–heute",
+    "engine": "4.0 BiTDI",
+    "power": 435,
+    "code": "DETA",
+    "ecu": "MD1CP004"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Touareg II",
+    "period": "2014–2018",
+    "engine": "3.0 BiTDI",
+    "power": 313,
+    "code": "CGQB",
+    "ecu": "EDC17CP44"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Touareg II",
+    "period": "2014–2018",
+    "engine": "3.0 BiTDI",
+    "power": 320,
+    "code": "CVUA",
+    "ecu": "EDC17CP44"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Touareg III",
+    "period": "2018–heute",
+    "engine": "3.0 TDI",
+    "power": 286,
+    "code": "DHXA",
+    "ecu": "MD1CP004"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Touareg III",
+    "period": "2018–heute",
+    "engine": "3.0 BiTDI",
+    "power": 349,
+    "code": "DDVA",
+    "ecu": "MD1CP004"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Touareg III",
+    "period": "2018–heute",
+    "engine": "4.0 BiTDI",
+    "power": 435,
+    "code": "DETA",
+    "ecu": "MD1CP004"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Arteon",
+    "period": "2017–heute",
+    "engine": "2.0 BiTDI",
+    "power": 240,
+    "code": "EA288",
+    "ecu": "EDC17CP54 / MD1CP004"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Arteon",
+    "period": "2017–heute",
+    "engine": "2.0 TDI",
+    "power": 204,
+    "code": "DLZA",
+    "ecu": "MD1CP004"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Arteon",
+    "period": "2017–heute",
+    "engine": "2.0 TDI",
+    "power": 231,
+    "code": "DHXA",
+    "ecu": "MD1CP004"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Passat B8",
+    "period": "2014–heute",
+    "engine": "2.0 BiTDI",
+    "power": 240,
+    "code": "EA288",
+    "ecu": "EDC17CP54 / MD1CP004"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Passat B8",
+    "period": "2014–heute",
+    "engine": "2.0 TDI",
+    "power": 190,
+    "code": "DFGA",
+    "ecu": "MD1CP004"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Tiguan Allspace",
+    "period": "2017–heute",
+    "engine": "2.0 TDI",
+    "power": 204,
+    "code": "DLZA",
+    "ecu": "MD1CP004"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Tiguan Allspace",
+    "period": "2017–heute",
+    "engine": "2.0 TDI",
+    "power": 231,
+    "code": "DHXA",
+    "ecu": "MD1CP004"
+  },
+  {
+    "brand": "Skoda",
+    "model": "Superb III",
+    "period": "2015–heute",
+    "engine": "2.0 BiTDI",
+    "power": 240,
+    "code": "EA288",
+    "ecu": "EDC17CP54 / MD1CP004"
+  },
+  {
+    "brand": "Skoda",
+    "model": "Kodiaq RS",
+    "period": "2018–2020",
+    "engine": "2.0 BiTDI",
+    "power": 240,
+    "code": "EA288",
+    "ecu": "EDC17CP54 / MD1CP004"
+  },
+  {
+    "brand": "Seat / Cupra",
+    "model": "Tarraco",
+    "period": "2018–heute",
+    "engine": "2.0 BiTDI",
+    "power": 240,
+    "code": "EA288",
+    "ecu": "EDC17CP54 / MD1CP004"
+  },
+  {
+    "brand": "Seat / Cupra",
+    "model": "Formentor",
+    "period": "2020–heute",
+    "engine": "2.0 TDI",
+    "power": 190,
+    "code": "DFGA",
+    "ecu": "MD1CP004"
+  },
+  {
+    "brand": "Seat / Cupra",
+    "model": "Ateca",
+    "period": "2018–heute",
+    "engine": "2.0 TDI",
+    "power": 190,
+    "code": "DFGA",
+    "ecu": "MD1CP004"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Cayenne III",
+    "period": "2018–2019",
+    "engine": "3.0 BiTDI",
+    "power": 349,
+    "code": "DDVA",
+    "ecu": "MD1CP004"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Cayenne III",
+    "period": "2018–2019",
+    "engine": "4.0 BiTDI",
+    "power": 435,
+    "code": "DETA",
+    "ecu": "MD1CP004"
+  },
+  {
+    "brand": "Bentley",
+    "model": "Bentayga Diesel",
+    "period": "2017–2019",
+    "engine": "4.0 BiTDI",
+    "power": 435,
+    "code": "DETA",
+    "ecu": "MD1CP004"
+  }
+]
