@@ -2,613 +2,1415 @@
   {
     "brand": "Audi",
     "model": "A3 8V",
-    "period": null,
     "engine": "2.0 TDI",
-    "power": 150,
-    "code": null,
+    "power": "150 PS",
     "ecu": "Bosch MD1CS004"
   },
   {
     "brand": "Audi",
     "model": "A3 8V",
-    "period": null,
     "engine": "40 TDI",
-    "power": 184,
-    "code": null,
+    "power": "184 PS",
     "ecu": "Bosch MD1CS004"
   },
   {
     "brand": "Audi",
     "model": "A4 8W",
-    "period": null,
     "engine": "2.9 TFSI V6 (RS4)",
-    "power": 450,
-    "code": null,
+    "power": "450 PS",
     "ecu": "Bosch MG1CS002"
   },
   {
     "brand": "Audi",
     "model": "A4 B8",
-    "period": null,
     "engine": "2.0 TDI",
-    "power": 150,
-    "code": null,
+    "power": "150 PS",
     "ecu": "Bosch MD1CS004"
   },
   {
     "brand": "Audi",
     "model": "A4 B8",
-    "period": null,
     "engine": "3.0 TDI",
-    "power": 245,
-    "code": null,
+    "power": "245 PS",
     "ecu": "Bosch MD1CP004"
   },
   {
     "brand": "Audi",
     "model": "A4 B9",
-    "period": null,
     "engine": "3.0 TDI",
-    "power": 218,
-    "code": null,
+    "power": "218 PS",
     "ecu": "Bosch EDC17CP54"
   },
   {
     "brand": "Audi",
     "model": "A4 B9",
-    "period": null,
     "engine": "3.0 TDI",
-    "power": 218,
-    "code": null,
+    "power": "218 PS",
     "ecu": "Bosch MD1CP004"
   },
   {
     "brand": "Audi",
     "model": "A4 B9",
-    "period": null,
     "engine": "3.0 TDI",
-    "power": 272,
-    "code": null,
+    "power": "272 PS",
     "ecu": "Bosch MD1CP004"
   },
   {
     "brand": "Audi",
     "model": "A4 B9",
-    "period": null,
     "engine": "3.0 TDI (S4)",
-    "power": 347,
-    "code": null,
+    "power": "347 PS",
     "ecu": "Bosch MD1CP004"
   },
   {
     "brand": "Audi",
     "model": "A4 B9",
-    "period": null,
     "engine": "3.0 TDI (S4)",
-    "power": 347,
-    "code": null,
+    "power": "347 PS",
     "ecu": "Bosch MD1CS014"
   },
   {
     "brand": "Audi",
     "model": "A4 B9",
-    "period": null,
     "engine": "3.0 TFSI V6 (S4)",
-    "power": 354,
-    "code": null,
+    "power": "354 PS",
     "ecu": "Bosch MG1CS002"
   },
   {
     "brand": "Audi",
     "model": "A4 B9",
-    "period": null,
     "engine": "30 TDI",
-    "power": 136,
-    "code": null,
+    "power": "136 PS",
     "ecu": "Bosch MD1CS004"
   },
   {
     "brand": "Audi",
     "model": "A4 B9",
-    "period": null,
     "engine": "40 TDI",
-    "power": 190,
-    "code": null,
+    "power": "190 PS",
     "ecu": "Bosch MD1CS004"
   },
   {
     "brand": "Audi",
     "model": "A4 B9",
-    "period": null,
     "engine": "40 TDI",
-    "power": 204,
-    "code": null,
+    "power": "204 PS",
     "ecu": "Bosch MD1CS004"
   },
   {
     "brand": "Audi",
     "model": "A4 B9",
-    "period": null,
     "engine": "45 TDI",
-    "power": 231,
-    "code": null,
+    "power": "231 PS",
     "ecu": "Bosch MD1CP004"
   },
   {
     "brand": "Audi",
     "model": "A4 B9",
-    "period": null,
     "engine": "45 TDI",
-    "power": 231,
-    "code": null,
+    "power": "231 PS",
     "ecu": "Bosch MD1CS014"
   },
   {
     "brand": "Audi",
     "model": "A4 B9",
-    "period": null,
     "engine": "45 TDI",
-    "power": 245,
-    "code": null,
+    "power": "245 PS",
     "ecu": "Bosch MD1CS014"
   },
   {
     "brand": "Audi",
     "model": "A4 B9",
-    "period": null,
     "engine": "50 TDI",
-    "power": 286,
-    "code": null,
+    "power": "286 PS",
     "ecu": "Bosch MD1CP004"
   },
   {
     "brand": "Audi",
     "model": "A4 B9",
-    "period": null,
     "engine": "50 TDI",
-    "power": 286,
-    "code": null,
+    "power": "286 PS",
     "ecu": "Bosch MD1CS014"
   },
   {
     "brand": "Audi",
     "model": "A5 8F",
-    "period": null,
     "engine": "2.0 TDI",
-    "power": 150,
-    "code": null,
+    "power": "150 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Audi",
+    "model": "A5 8F",
+    "engine": "3.0 TDI",
+    "power": "218 PS",
+    "ecu": "Bosch EDC17CP54"
+  },
+  {
+    "brand": "Audi",
+    "model": "A5 8F",
+    "engine": "3.0 TDI",
+    "power": "218 PS",
+    "ecu": "Bosch MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "A5 8F",
+    "engine": "3.0 TDI",
+    "power": "245 PS",
+    "ecu": "Bosch MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "A5 B9",
+    "engine": "2.9 TFSI V6 (RS5)",
+    "power": "450 PS",
+    "ecu": "Bosch MG1CS002"
+  },
+  {
+    "brand": "Audi",
+    "model": "A5 B9",
+    "engine": "3.0 TDI (S5)",
+    "power": "347 PS",
+    "ecu": "Bosch MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "A5 B9",
+    "engine": "3.0 TDI (S5)",
+    "power": "347 PS",
+    "ecu": "Bosch MD1CS014"
+  },
+  {
+    "brand": "Audi",
+    "model": "A5 B9",
+    "engine": "3.0 TFSI V6 (S5)",
+    "power": "354 PS",
+    "ecu": "Bosch MG1CS002"
+  },
+  {
+    "brand": "Audi",
+    "model": "A5 F5",
+    "engine": "2.0 TDI",
+    "power": "150 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Audi",
+    "model": "A5 F5",
+    "engine": "3.0 TDI",
+    "power": "272 PS",
+    "ecu": "Bosch EDC17CP54"
+  },
+  {
+    "brand": "Audi",
+    "model": "A5 F5",
+    "engine": "3.0 TDI",
+    "power": "286 PS",
+    "ecu": "Bosch MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "A5 F5",
+    "engine": "40 TDI",
+    "power": "190 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Audi",
+    "model": "A5 F5",
+    "engine": "40 TDI",
+    "power": "204 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Audi",
+    "model": "A5 F5",
+    "engine": "45 TDI",
+    "power": "231 PS",
+    "ecu": "Bosch MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "A5 F5",
+    "engine": "45 TDI",
+    "power": "245 PS",
+    "ecu": "Bosch MD1CS014"
+  },
+  {
+    "brand": "Audi",
+    "model": "A5 F5",
+    "engine": "45 TDI",
+    "power": "286 PS",
+    "ecu": "Bosch MD1CS014"
+  },
+  {
+    "brand": "Audi",
+    "model": "A5 F5",
+    "engine": "50 TDI",
+    "power": "286 PS",
+    "ecu": "Bosch MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "A6 C7",
+    "engine": "2.0 TDI",
+    "power": "150 PS",
     "ecu": "Bosch MD1CS004"
   },
   {
     "brand": "Audi",
     "model": "A6 C7",
-    "period": "2014–2018",
     "engine": "3.0 TDI",
-    "power": 190,
-    "code": "CVKB",
-    "ecu": "EDC17CP54"
+    "power": "190 PS",
+    "ecu": "Bosch MD1CP004"
   },
   {
     "brand": "Audi",
     "model": "A6 C7",
-    "period": "2014–2018",
     "engine": "3.0 TDI",
-    "power": 218,
-    "code": "CVMD",
-    "ecu": "EDC17CP54"
+    "power": "211 PS",
+    "ecu": "Bosch EDC17CP54"
   },
   {
     "brand": "Audi",
     "model": "A6 C7",
-    "period": "2014–2018",
     "engine": "3.0 TDI",
-    "power": 272,
-    "code": "CVMD",
-    "ecu": "EDC17CP54"
+    "power": "211 PS",
+    "ecu": "Bosch MD1CP004"
   },
   {
     "brand": "Audi",
     "model": "A6 C7",
-    "period": "2014–2018",
-    "engine": "3.0 BiTDI",
-    "power": 313,
-    "code": "CGQB",
-    "ecu": "EDC17CP44"
+    "engine": "3.0 TDI",
+    "power": "218 PS",
+    "ecu": "Bosch EDC17CP54"
   },
   {
     "brand": "Audi",
     "model": "A6 C7",
-    "period": "2014–2018",
-    "engine": "3.0 BiTDI",
-    "power": 320,
-    "code": "CVUA",
-    "ecu": "EDC17CP44"
+    "engine": "3.0 TDI",
+    "power": "218 PS",
+    "ecu": "Bosch MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "A6 C7",
+    "engine": "3.0 TDI",
+    "power": "245 PS",
+    "ecu": "Bosch MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "A6 C7",
+    "engine": "3.0 TDI",
+    "power": "272 PS",
+    "ecu": "Bosch EDC17CP54"
+  },
+  {
+    "brand": "Audi",
+    "model": "A6 C7",
+    "engine": "3.0 TDI",
+    "power": "347 PS",
+    "ecu": "Bosch MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "A6 C7",
+    "engine": "3.0 TDI",
+    "power": "347 PS",
+    "ecu": "Bosch MD1CS014"
   },
   {
     "brand": "Audi",
     "model": "A6 C8",
-    "period": "2018–heute",
+    "engine": "2.9 TFSI V6 (S6)",
+    "power": "450 PS",
+    "ecu": "Bosch MG1CS002"
+  },
+  {
+    "brand": "Audi",
+    "model": "A6 C8",
+    "engine": "3.0 TDI (S6)",
+    "power": "349 PS",
+    "ecu": "Bosch MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "A6 C8",
+    "engine": "3.0 TDI (S6)",
+    "power": "349 PS",
+    "ecu": "Bosch MD1CS014"
+  },
+  {
+    "brand": "Audi",
+    "model": "A6 C8",
+    "engine": "30 TDI",
+    "power": "136 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Audi",
+    "model": "A6 C8",
     "engine": "40 TDI",
-    "power": 204,
-    "code": "DLZA",
-    "ecu": "MD1CP004"
+    "power": "163 PS",
+    "ecu": "Bosch MD1CS004"
   },
   {
     "brand": "Audi",
     "model": "A6 C8",
-    "period": "2018–heute",
-    "engine": "45 TDI",
-    "power": 231,
-    "code": "DHXA",
-    "ecu": "MD1CP004"
-  },
-  {
-    "brand": "Audi",
-    "model": "A6 C8",
-    "period": "2018–heute",
-    "engine": "50 TDI",
-    "power": 286,
-    "code": "DHXA",
-    "ecu": "MD1CP004"
-  },
-  {
-    "brand": "Audi",
-    "model": "A7 C7",
-    "period": "2014–2018",
-    "engine": "3.0 TDI",
-    "power": 218,
-    "code": "CVMD",
-    "ecu": "EDC17CP54"
-  },
-  {
-    "brand": "Audi",
-    "model": "A7 C7",
-    "period": "2014–2018",
-    "engine": "3.0 TDI",
-    "power": 272,
-    "code": "CVMD",
-    "ecu": "EDC17CP54"
-  },
-  {
-    "brand": "Audi",
-    "model": "A7 C7",
-    "period": "2014–2018",
-    "engine": "3.0 BiTDI",
-    "power": 313,
-    "code": "CGQB",
-    "ecu": "EDC17CP44"
-  },
-  {
-    "brand": "Audi",
-    "model": "A7 C7",
-    "period": "2014–2018",
-    "engine": "3.0 BiTDI",
-    "power": 320,
-    "code": "CVUA",
-    "ecu": "EDC17CP44"
-  },
-  {
-    "brand": "Audi",
-    "model": "A7 C8",
-    "period": "2018–heute",
     "engine": "40 TDI",
-    "power": 204,
-    "code": "DLZA",
-    "ecu": "MD1CP004"
+    "power": "204 PS",
+    "ecu": "Bosch MD1CS004"
   },
   {
     "brand": "Audi",
-    "model": "A7 C8",
-    "period": "2018–heute",
+    "model": "A6 C8",
     "engine": "45 TDI",
-    "power": 231,
-    "code": "DHXA",
-    "ecu": "MD1CP004"
+    "power": "231 PS",
+    "ecu": "Bosch MD1CP004"
   },
   {
     "brand": "Audi",
-    "model": "A7 C8",
-    "period": "2018–heute",
-    "engine": "50 TDI",
-    "power": 286,
-    "code": "DHXA",
-    "ecu": "MD1CP004"
-  },
-  {
-    "brand": "Audi",
-    "model": "A7 C8",
-    "period": "2018–heute",
-    "engine": "S7 3.0 BiTDI",
-    "power": 349,
-    "code": "DDVA",
-    "ecu": "MD1CP004"
-  },
-  {
-    "brand": "Audi",
-    "model": "S6 C8",
-    "period": "2019–heute",
-    "engine": "3.0 BiTDI",
-    "power": 349,
-    "code": "DDVA",
-    "ecu": "MD1CP004"
-  },
-  {
-    "brand": "Audi",
-    "model": "S4 B9",
-    "period": "2019–heute",
-    "engine": "3.0 BiTDI",
-    "power": 347,
-    "code": "DDVB",
-    "ecu": "MD1CP004"
-  },
-  {
-    "brand": "Audi",
-    "model": "SQ5 FY",
-    "period": "2017–heute",
-    "engine": "3.0 BiTDI",
-    "power": 347,
-    "code": "DDVC",
-    "ecu": "MD1CP004"
-  },
-  {
-    "brand": "Audi",
-    "model": "Q7 (2015–2018)",
-    "period": "2015–2018",
-    "engine": "3.0 TDI",
-    "power": 218,
-    "code": "CVMD",
-    "ecu": "EDC17CP54"
-  },
-  {
-    "brand": "Audi",
-    "model": "Q7 (2015–2018)",
-    "period": "2015–2018",
-    "engine": "3.0 TDI",
-    "power": 272,
-    "code": "CVMD",
-    "ecu": "EDC17CP54"
-  },
-  {
-    "brand": "Audi",
-    "model": "Q7 (2015–2018)",
-    "period": "2015–2018",
-    "engine": "3.0 BiTDI",
-    "power": 326,
-    "code": "CVUB",
-    "ecu": "EDC17CP44"
-  },
-  {
-    "brand": "Audi",
-    "model": "Q7 (2018–heute)",
-    "period": "2018–heute",
+    "model": "A6 C8",
     "engine": "45 TDI",
-    "power": 231,
-    "code": "DHXA",
-    "ecu": "MD1CP004"
+    "power": "231 PS",
+    "ecu": "Bosch MD1CS014"
   },
   {
     "brand": "Audi",
-    "model": "Q7 (2018–heute)",
-    "period": "2018–heute",
+    "model": "A6 C8",
+    "engine": "45 TDI",
+    "power": "245 PS",
+    "ecu": "Bosch MD1CS014"
+  },
+  {
+    "brand": "Audi",
+    "model": "A6 C8",
     "engine": "50 TDI",
-    "power": 286,
-    "code": "DHXA",
-    "ecu": "MD1CP004"
+    "power": "286 PS",
+    "ecu": "Bosch MD1CP004"
   },
   {
     "brand": "Audi",
-    "model": "SQ7",
-    "period": "2018–heute",
-    "engine": "4.0 BiTDI",
-    "power": 435,
-    "code": "DETA",
-    "ecu": "MD1CP004"
+    "model": "A6 C8",
+    "engine": "50 TDI",
+    "power": "286 PS",
+    "ecu": "Bosch MD1CS014"
+  },
+  {
+    "brand": "Audi",
+    "model": "A6 C8",
+    "engine": "55 TDI",
+    "power": "349 PS",
+    "ecu": "Bosch MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "A6 C8",
+    "engine": "55 TFSI",
+    "power": "340 PS",
+    "ecu": "Bosch MG1CS002"
+  },
+  {
+    "brand": "Audi",
+    "model": "A7 4K",
+    "engine": "45 TDI",
+    "power": "231 PS",
+    "ecu": "Bosch MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "A7 4K",
+    "engine": "50 TDI",
+    "power": "286 PS",
+    "ecu": "Bosch MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "A7 C7",
+    "engine": "3.0 TDI",
+    "power": "190 PS",
+    "ecu": "Bosch MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "A7 C7",
+    "engine": "3.0 TDI",
+    "power": "211 PS",
+    "ecu": "Bosch EDC17CP54"
+  },
+  {
+    "brand": "Audi",
+    "model": "A7 C7",
+    "engine": "3.0 TDI",
+    "power": "211 PS",
+    "ecu": "Bosch MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "A7 C7",
+    "engine": "3.0 TDI",
+    "power": "218 PS",
+    "ecu": "Bosch EDC17CP54"
+  },
+  {
+    "brand": "Audi",
+    "model": "A7 C7",
+    "engine": "3.0 TDI",
+    "power": "218 PS",
+    "ecu": "Bosch MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "A7 C7",
+    "engine": "3.0 TDI",
+    "power": "245 PS",
+    "ecu": "Bosch MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "A7 C7",
+    "engine": "3.0 TDI",
+    "power": "272 PS",
+    "ecu": "Bosch EDC17CP54"
+  },
+  {
+    "brand": "Audi",
+    "model": "A7 C8",
+    "engine": "2.9 TFSI V6 (S7)",
+    "power": "450 PS",
+    "ecu": "Bosch MG1CS002"
+  },
+  {
+    "brand": "Audi",
+    "model": "A7 C8",
+    "engine": "3.0 TDI (S7)",
+    "power": "349 PS",
+    "ecu": "Bosch MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "A7 C8",
+    "engine": "3.0 TDI (S7)",
+    "power": "349 PS",
+    "ecu": "Bosch MD1CS014"
+  },
+  {
+    "brand": "Audi",
+    "model": "A7 C8",
+    "engine": "45 TDI",
+    "power": "231 PS",
+    "ecu": "Bosch MD1CS014"
+  },
+  {
+    "brand": "Audi",
+    "model": "A7 C8",
+    "engine": "45 TDI",
+    "power": "245 PS",
+    "ecu": "Bosch MD1CS014"
+  },
+  {
+    "brand": "Audi",
+    "model": "A7 C8",
+    "engine": "50 TDI",
+    "power": "286 PS",
+    "ecu": "Bosch MD1CS014"
+  },
+  {
+    "brand": "Audi",
+    "model": "A7 C8",
+    "engine": "55 TFSI",
+    "power": "340 PS",
+    "ecu": "Bosch MG1CS002"
+  },
+  {
+    "brand": "Audi",
+    "model": "A8 D4",
+    "engine": "3.0 TDI",
+    "power": "245 PS",
+    "ecu": "Bosch MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "A8 D4",
+    "engine": "3.0 TDI",
+    "power": "250 PS",
+    "ecu": "Bosch EDC17CP54"
+  },
+  {
+    "brand": "Audi",
+    "model": "A8 D4",
+    "engine": "3.0 TDI",
+    "power": "286 PS",
+    "ecu": "Bosch MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "A8 D5",
+    "engine": "4.0 TDI",
+    "power": "435 PS",
+    "ecu": "Bosch MD1CP014"
+  },
+  {
+    "brand": "Audi",
+    "model": "A8 D5",
+    "engine": "50 TDI",
+    "power": "286 PS",
+    "ecu": "Bosch MD1CS014"
+  },
+  {
+    "brand": "Audi",
+    "model": "A8 D5",
+    "engine": "55 TFSI",
+    "power": "340 PS",
+    "ecu": "Bosch MG1CS002"
+  },
+  {
+    "brand": "Audi",
+    "model": "Q2",
+    "engine": "2.0 TDI",
+    "power": "150 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Audi",
+    "model": "Q3 8U",
+    "engine": "2.0 TDI",
+    "power": "150 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Audi",
+    "model": "Q3 F3",
+    "engine": "40 TDI",
+    "power": "190 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Audi",
+    "model": "Q3 F3",
+    "engine": "40 TDI",
+    "power": "200 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Audi",
+    "model": "Q5 8R",
+    "engine": "2.0 TDI",
+    "power": "150 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Audi",
+    "model": "Q5 8R",
+    "engine": "3.0 TDI",
+    "power": "245 PS",
+    "ecu": "Bosch MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "Q5 8R",
+    "engine": "3.0 TDI",
+    "power": "250 PS",
+    "ecu": "Bosch EDC17CP54"
+  },
+  {
+    "brand": "Audi",
+    "model": "Q5 FY",
+    "engine": "2.0 TDI",
+    "power": "150 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Audi",
+    "model": "Q5 FY",
+    "engine": "3.0 TDI (SQ5)",
+    "power": "341 PS",
+    "ecu": "Bosch MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "Q5 FY",
+    "engine": "3.0 TDI (SQ5)",
+    "power": "347 PS",
+    "ecu": "Bosch MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "Q5 FY",
+    "engine": "3.0 TDI (SQ5)",
+    "power": "347 PS",
+    "ecu": "Bosch MD1CS014"
+  },
+  {
+    "brand": "Audi",
+    "model": "Q5 FY",
+    "engine": "3.0 TFSI V6 (SQ5)",
+    "power": "354 PS",
+    "ecu": "Bosch MG1CS002"
+  },
+  {
+    "brand": "Audi",
+    "model": "Q5 FY",
+    "engine": "40 TDI",
+    "power": "190 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Audi",
+    "model": "Q5 FY",
+    "engine": "40 TDI (SQ5)",
+    "power": "204 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Audi",
+    "model": "Q5 FY",
+    "engine": "50 TDI",
+    "power": "286 PS",
+    "ecu": "Bosch MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "Q5 FY",
+    "engine": "50 TDI",
+    "power": "286 PS",
+    "ecu": "Bosch MD1CS014"
+  },
+  {
+    "brand": "Audi",
+    "model": "Q7 4L",
+    "engine": "3.0 TDI",
+    "power": "245 PS",
+    "ecu": "Bosch MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "Q7 4M",
+    "engine": "3.0 TDI",
+    "power": "211 PS",
+    "ecu": "Bosch MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "Q7 4M",
+    "engine": "3.0 TDI",
+    "power": "250 PS",
+    "ecu": "Bosch EDC17CP54"
+  },
+  {
+    "brand": "Audi",
+    "model": "Q7 4M",
+    "engine": "3.0 TDI",
+    "power": "272 PS",
+    "ecu": "Bosch EDC17CP54"
+  },
+  {
+    "brand": "Audi",
+    "model": "Q7 4M",
+    "engine": "3.0 TDI (e-tron)",
+    "power": "373 PS",
+    "ecu": "Bosch MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "Q7 4M",
+    "engine": "4.0 TDI (SQ7)",
+    "power": "429 PS",
+    "ecu": "Bosch MD1CP014"
+  },
+  {
+    "brand": "Audi",
+    "model": "Q7 4M",
+    "engine": "4.0 TDI (SQ7)",
+    "power": "435 PS",
+    "ecu": "Bosch MD1CP014"
+  },
+  {
+    "brand": "Audi",
+    "model": "Q7 4M",
+    "engine": "45 TDI",
+    "power": "231 PS",
+    "ecu": "Bosch MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "Q7 4M",
+    "engine": "45 TDI",
+    "power": "231 PS",
+    "ecu": "Bosch MD1CS014"
+  },
+  {
+    "brand": "Audi",
+    "model": "Q7 4M",
+    "engine": "45 TDI",
+    "power": "245 PS",
+    "ecu": "Bosch MD1CS014"
+  },
+  {
+    "brand": "Audi",
+    "model": "Q7 4M",
+    "engine": "50 TDI",
+    "power": "286 PS",
+    "ecu": "Bosch MD1CP004"
+  },
+  {
+    "brand": "Audi",
+    "model": "Q7 4M",
+    "engine": "50 TDI",
+    "power": "286 PS",
+    "ecu": "Bosch MD1CS014"
+  },
+  {
+    "brand": "Audi",
+    "model": "Q7 4M",
+    "engine": "55 TFSI",
+    "power": "340 PS",
+    "ecu": "Bosch MG1CS002"
   },
   {
     "brand": "Audi",
     "model": "Q8",
-    "period": "2018–heute",
-    "engine": "3.0 TDI",
-    "power": 286,
-    "code": "DHXA",
-    "ecu": "MD1CP004"
+    "engine": "4.0 TDI (SQ8)",
+    "power": "435 PS",
+    "ecu": "Bosch MD1CP014"
   },
   {
     "brand": "Audi",
     "model": "Q8",
-    "period": "2018–heute",
     "engine": "45 TDI",
-    "power": 231,
-    "code": "DEUA",
-    "ecu": "MD1CP004"
+    "power": "231 PS",
+    "ecu": "Bosch MD1CP004"
   },
   {
     "brand": "Audi",
-    "model": "SQ8",
-    "period": "2018–heute",
-    "engine": "4.0 BiTDI",
-    "power": 435,
-    "code": "DETA",
-    "ecu": "MD1CP004"
+    "model": "Q8",
+    "engine": "45 TDI",
+    "power": "231 PS",
+    "ecu": "Bosch MD1CS014"
   },
   {
-    "brand": "Volkswagen",
-    "model": "Touareg II",
-    "period": "2014–2018",
-    "engine": "3.0 BiTDI",
-    "power": 313,
-    "code": "CGQB",
-    "ecu": "EDC17CP44"
+    "brand": "Audi",
+    "model": "Q8",
+    "engine": "45 TDI",
+    "power": "245 PS",
+    "ecu": "Bosch MD1CS014"
   },
   {
-    "brand": "Volkswagen",
-    "model": "Touareg II",
-    "period": "2014–2018",
-    "engine": "3.0 BiTDI",
-    "power": 320,
-    "code": "CVUA",
-    "ecu": "EDC17CP44"
+    "brand": "Audi",
+    "model": "Q8",
+    "engine": "50 TDI",
+    "power": "286 PS",
+    "ecu": "Bosch MD1CP004"
   },
   {
-    "brand": "Volkswagen",
-    "model": "Touareg III",
-    "period": "2018–heute",
-    "engine": "3.0 TDI",
-    "power": 286,
-    "code": "DHXA",
-    "ecu": "MD1CP004"
+    "brand": "Audi",
+    "model": "Q8",
+    "engine": "50 TDI",
+    "power": "286 PS",
+    "ecu": "Bosch MD1CS014"
   },
   {
-    "brand": "Volkswagen",
-    "model": "Touareg III",
-    "period": "2018–heute",
-    "engine": "3.0 BiTDI",
-    "power": 349,
-    "code": "DDVA",
-    "ecu": "MD1CP004"
+    "brand": "Audi",
+    "model": "Q8",
+    "engine": "55 TFSI",
+    "power": "340 PS",
+    "ecu": "Bosch MG1CS002"
   },
   {
-    "brand": "Volkswagen",
-    "model": "Touareg III",
-    "period": "2018–heute",
-    "engine": "4.0 BiTDI",
-    "power": 435,
-    "code": "DETA",
-    "ecu": "MD1CP004"
-  },
-  {
-    "brand": "Volkswagen",
-    "model": "Arteon",
-    "period": "2017–heute",
-    "engine": "2.0 BiTDI",
-    "power": 240,
-    "code": "EA288",
-    "ecu": "EDC17CP54 / MD1CP004"
-  },
-  {
-    "brand": "Volkswagen",
-    "model": "Arteon",
-    "period": "2017–heute",
-    "engine": "2.0 TDI",
-    "power": 204,
-    "code": "DLZA",
-    "ecu": "MD1CP004"
-  },
-  {
-    "brand": "Volkswagen",
-    "model": "Arteon",
-    "period": "2017–heute",
-    "engine": "2.0 TDI",
-    "power": 231,
-    "code": "DHXA",
-    "ecu": "MD1CP004"
-  },
-  {
-    "brand": "Volkswagen",
-    "model": "Passat B8",
-    "period": "2014–heute",
-    "engine": "2.0 BiTDI",
-    "power": 240,
-    "code": "EA288",
-    "ecu": "EDC17CP54 / MD1CP004"
-  },
-  {
-    "brand": "Volkswagen",
-    "model": "Passat B8",
-    "period": "2014–heute",
-    "engine": "2.0 TDI",
-    "power": 190,
-    "code": "DFGA",
-    "ecu": "MD1CP004"
-  },
-  {
-    "brand": "Volkswagen",
-    "model": "Tiguan Allspace",
-    "period": "2017–heute",
-    "engine": "2.0 TDI",
-    "power": 204,
-    "code": "DLZA",
-    "ecu": "MD1CP004"
-  },
-  {
-    "brand": "Volkswagen",
-    "model": "Tiguan Allspace",
-    "period": "2017–heute",
-    "engine": "2.0 TDI",
-    "power": 231,
-    "code": "DHXA",
-    "ecu": "MD1CP004"
-  },
-  {
-    "brand": "Skoda",
-    "model": "Superb III",
-    "period": "2015–heute",
-    "engine": "2.0 BiTDI",
-    "power": 240,
-    "code": "EA288",
-    "ecu": "EDC17CP54 / MD1CP004"
-  },
-  {
-    "brand": "Skoda",
-    "model": "Kodiaq RS",
-    "period": "2018–2020",
-    "engine": "2.0 BiTDI",
-    "power": 240,
-    "code": "EA288",
-    "ecu": "EDC17CP54 / MD1CP004"
-  },
-  {
-    "brand": "Seat / Cupra",
-    "model": "Tarraco",
-    "period": "2018–heute",
-    "engine": "2.0 BiTDI",
-    "power": 240,
-    "code": "EA288",
-    "ecu": "EDC17CP54 / MD1CP004"
-  },
-  {
-    "brand": "Seat / Cupra",
-    "model": "Formentor",
-    "period": "2020–heute",
-    "engine": "2.0 TDI",
-    "power": 190,
-    "code": "DFGA",
-    "ecu": "MD1CP004"
-  },
-  {
-    "brand": "Seat / Cupra",
-    "model": "Ateca",
-    "period": "2018–heute",
-    "engine": "2.0 TDI",
-    "power": 190,
-    "code": "DFGA",
-    "ecu": "MD1CP004"
-  },
-  {
-    "brand": "Porsche",
-    "model": "Cayenne III",
-    "period": "2018–2019",
-    "engine": "3.0 BiTDI",
-    "power": 349,
-    "code": "DDVA",
-    "ecu": "MD1CP004"
-  },
-  {
-    "brand": "Porsche",
-    "model": "Cayenne III",
-    "period": "2018–2019",
-    "engine": "4.0 BiTDI",
-    "power": 435,
-    "code": "DETA",
-    "ecu": "MD1CP004"
+    "brand": "Audi",
+    "model": "Q8",
+    "engine": "55 TFSI-e",
+    "power": "381 PS",
+    "ecu": "Bosch MG1CS002"
   },
   {
     "brand": "Bentley",
-    "model": "Bentayga Diesel",
-    "period": "2017–2019",
-    "engine": "4.0 BiTDI",
-    "power": 435,
-    "code": "DETA",
-    "ecu": "MD1CP004"
+    "model": "Bentayga",
+    "engine": "3.0 V6 Turbo Hybrid",
+    "power": "449 PS",
+    "ecu": "Bosch MG1CS002"
+  },
+  {
+    "brand": "Bentley",
+    "model": "Bentayga",
+    "engine": "3.0T E-Hybrid V6",
+    "power": "443 PS",
+    "ecu": "Bosch MG1CS002"
+  },
+  {
+    "brand": "Bentley",
+    "model": "Bentayga",
+    "engine": "3.0T V6 E-Hybrid",
+    "power": "456 PS",
+    "ecu": "Bosch MG1CS002"
+  },
+  {
+    "brand": "Bentley",
+    "model": "Bentayga",
+    "engine": "4.0 TDI",
+    "power": "435 PS",
+    "ecu": "Bosch MD1CP014"
+  },
+  {
+    "brand": "Bentley",
+    "model": "Continental Flying Spur",
+    "engine": "2.9 TFS",
+    "power": "536 PS",
+    "ecu": "Bosch MG1CS002"
+  },
+  {
+    "brand": "Cupra",
+    "model": "Formentor",
+    "engine": "2.0 TDI",
+    "power": "150 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Generic",
+    "model": "Various",
+    "engine": "Various",
+    "power": "Various",
+    "ecu": "Bosch MG1CS011"
+  },
+  {
+    "brand": "Generic",
+    "model": "Various",
+    "engine": "Various",
+    "power": "Various",
+    "ecu": "Delphi DCM7.1A"
+  },
+  {
+    "brand": "Generic",
+    "model": "Various",
+    "engine": "Various",
+    "power": "Various",
+    "ecu": "Delphi DCM7.1B"
+  },
+  {
+    "brand": "Generic",
+    "model": "Various",
+    "engine": "Various",
+    "power": "Various",
+    "ecu": "Bosch MG1CS111"
+  },
+  {
+    "brand": "Generic",
+    "model": "Various",
+    "engine": "Various",
+    "power": "Various",
+    "ecu": "Bosch MG1CS001"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Cayenne PO536",
+    "engine": "2.9 V6 Turbo (4S)",
+    "power": "440 PS",
+    "ecu": "Bosch MG1CS002"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Cayenne PO536",
+    "engine": "3.0 V6 Turbo",
+    "power": "340 PS",
+    "ecu": "Bosch MG1CS002"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Cayenne PO536",
+    "engine": "3.0T E-Hybrid V6",
+    "power": "462 PS",
+    "ecu": "Bosch MG1CS002"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Cayenne PO536-FL",
+    "engine": "3.0 Turbo V6",
+    "power": "353 PS",
+    "ecu": "Bosch MG1CS002"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Cayenne PO536-FL",
+    "engine": "3.0T V6 E-Hybrid",
+    "power": "470 PS",
+    "ecu": "Bosch MG1CS002"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Cayenne PO536-FL",
+    "engine": "3.0T V6 S E-Hybrid",
+    "power": "519 PS",
+    "ecu": "Bosch MG1CS002"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Macan",
+    "engine": "2.9 V6 Turbo (GTS)",
+    "power": "380 PS",
+    "ecu": "Bosch MG1CS002"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Macan",
+    "engine": "2.9 V6 Turbo (GTS)",
+    "power": "440 PS",
+    "ecu": "Bosch MG1CS002"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Macan",
+    "engine": "2.9 V6 Turbo (S)",
+    "power": "380 PS",
+    "ecu": "Bosch MG1CS002"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Macan",
+    "engine": "2.9 V6 Turbo (Turbo)",
+    "power": "440 PS",
+    "ecu": "Bosch MG1CS002"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Macan",
+    "engine": "3.0 V6 Turbo (S)",
+    "power": "354 PS",
+    "ecu": "Bosch MG1CS002"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Panamera 970",
+    "engine": "3.0 TDI",
+    "power": "250 PS",
+    "ecu": "Bosch EDC17CP54"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Panamera 971",
+    "engine": "2.9 V6 Turbo",
+    "power": "330 PS",
+    "ecu": "Bosch MG1CS002"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Panamera 971",
+    "engine": "2.9 V6 Turbo (4S)",
+    "power": "440 PS",
+    "ecu": "Bosch MG1CS002"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Panamera 971",
+    "engine": "2.9T E-Hybrid V6",
+    "power": "462 PS",
+    "ecu": "Bosch MG1CS002"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Panamera 971",
+    "engine": "3.0 V6",
+    "power": "330 PS",
+    "ecu": "Bosch MG1CS002"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Panamera 971",
+    "engine": "4.0 TDI",
+    "power": "421 PS",
+    "ecu": "Bosch MD1CP014"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Panamera 971-FL",
+    "engine": "2.9 V6 Turbo",
+    "power": "330 PS",
+    "ecu": "Bosch MG1CS002"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Panamera 971-FL",
+    "engine": "2.9T S E-Hybrid V6",
+    "power": "560 PS",
+    "ecu": "Bosch MG1CS002"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Panamera 972",
+    "engine": "2.9 V6 Turbo",
+    "power": "353 PS",
+    "ecu": "Bosch MG1CS002"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Panamera 972",
+    "engine": "3.0 Turbo V6",
+    "power": "353 PS",
+    "ecu": "Bosch MG1CS002"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Panamera 972",
+    "engine": "3.0T V6 E-Hybrid",
+    "power": "470 PS",
+    "ecu": "Bosch MG1CS002"
+  },
+  {
+    "brand": "Porsche",
+    "model": "Panamera 972",
+    "engine": "3.0T V6 S E-Hybrid",
+    "power": "544 PS",
+    "ecu": "Bosch MG1CS002"
+  },
+  {
+    "brand": "Seat",
+    "model": "Alhambra",
+    "engine": "2.0 TDI",
+    "power": "150 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Seat",
+    "model": "Ateca",
+    "engine": "2.0 TDI",
+    "power": "150 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Seat",
+    "model": "Leon",
+    "engine": "2.0 TDI",
+    "power": "150 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Seat",
+    "model": "Tarraco",
+    "engine": "2.0 TDI",
+    "power": "150 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Skoda",
+    "model": "Karoq",
+    "engine": "2.0 TDI",
+    "power": "115 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Skoda",
+    "model": "Karoq",
+    "engine": "2.0 TDI",
+    "power": "150 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Skoda",
+    "model": "Kodiaq",
+    "engine": "2.0 TDI",
+    "power": "150 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Skoda",
+    "model": "Kodiaq",
+    "engine": "2.0 TDI",
+    "power": "193 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Skoda",
+    "model": "Kodiaq",
+    "engine": "2.0 TDI",
+    "power": "200 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Skoda",
+    "model": "Octavia",
+    "engine": "2.0 TDI",
+    "power": "150 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Skoda",
+    "model": "Octavia",
+    "engine": "2.0 TDI",
+    "power": "200 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Skoda",
+    "model": "Superb",
+    "engine": "2.0 TDI",
+    "power": "122 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Skoda",
+    "model": "Superb",
+    "engine": "2.0 TDI",
+    "power": "150 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Skoda",
+    "model": "Superb",
+    "engine": "2.0 TDI",
+    "power": "200 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Skoda",
+    "model": "Yeti",
+    "engine": "2.0 TDI",
+    "power": "150 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Amarok",
+    "engine": "3.0 TDI",
+    "power": "204 PS",
+    "ecu": "Bosch EDC17CP54"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Amarok",
+    "engine": "3.0 TDI",
+    "power": "224 PS",
+    "ecu": "Bosch EDC17CP54"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Amarok",
+    "engine": "3.0 TDI",
+    "power": "258 PS",
+    "ecu": "Bosch EDC17CP54"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Arteon",
+    "engine": "2.0 TDI",
+    "power": "150 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Arteon",
+    "engine": "2.0 TDI",
+    "power": "200 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Beetle",
+    "engine": "2.0 TDI",
+    "power": "150 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Caddy",
+    "engine": "2.0 TDI",
+    "power": "75 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Caddy",
+    "engine": "2.0 TDI",
+    "power": "102 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Caddy",
+    "engine": "2.0 TDI",
+    "power": "122 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Caddy",
+    "engine": "2.0 TDI",
+    "power": "150 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Crafter",
+    "engine": "2.0 TDI",
+    "power": "122 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Golf 7",
+    "engine": "2.0 TDI",
+    "power": "150 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Golf 8",
+    "engine": "2.0 TDI",
+    "power": "150 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Golf 8 GTD",
+    "engine": "2.0 TDI",
+    "power": "200 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Jetta",
+    "engine": "2.0 TDI",
+    "power": "150 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Passat B8",
+    "engine": "2.0 TDI",
+    "power": "150 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Passat B9",
+    "engine": "2.0 TDI",
+    "power": "122 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Passat B9",
+    "engine": "2.0 TDI",
+    "power": "150 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Passat B9",
+    "engine": "2.0 TDI",
+    "power": "193 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Passat CC",
+    "engine": "2.0 TDI",
+    "power": "150 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Scirocco",
+    "engine": "2.0 TDI",
+    "power": "150 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Sharan",
+    "engine": "2.0 TDI",
+    "power": "150 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "T-Roc",
+    "engine": "2.0 TDI",
+    "power": "150 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Talagon",
+    "engine": "2.5 TSI EU6",
+    "power": "299 PS",
+    "ecu": "Bosch MG1CS002"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Tiguan",
+    "engine": "2.0 TDI",
+    "power": "150 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Tiguan",
+    "engine": "2.0 TDI",
+    "power": "200 PS",
+    "ecu": "Bosch MD1CS004"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Touareg",
+    "engine": "3.0 TDI",
+    "power": "231 PS",
+    "ecu": "Bosch MD1CP004"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Touareg",
+    "engine": "3.0 TDI",
+    "power": "245 PS",
+    "ecu": "Bosch MD1CP004"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Touareg",
+    "engine": "3.0 TDI",
+    "power": "286 PS",
+    "ecu": "Bosch MD1CP004"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Touareg",
+    "engine": "3.0 TDI",
+    "power": "286 PS",
+    "ecu": "Bosch MD1CS014"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Touareg",
+    "engine": "3.0 V6 e-Hybrid",
+    "power": "381 PS",
+    "ecu": "Bosch MG1CS002"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Touareg",
+    "engine": "3.0 V6 Turbo",
+    "power": "340 PS",
+    "ecu": "Bosch MG1CS002"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Touareg",
+    "engine": "3.0T V6 E-Hybrid",
+    "power": "456 PS",
+    "ecu": "Bosch MG1CS002"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Touareg",
+    "engine": "4.0 TDI",
+    "power": "421 PS",
+    "ecu": "Bosch MD1CP014"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Touran",
+    "engine": "2.0 TDI",
+    "power": "150 PS",
+    "ecu": "Bosch MD1CS004"
   }
 ]

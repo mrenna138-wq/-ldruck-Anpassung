@@ -2,3 +2,5 @@
 qa*.mjs
 publish.py
 *.tar.gz
+sync-update.py
+downloaded.html
